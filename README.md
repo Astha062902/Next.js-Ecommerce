@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **E-Commerce Platform**
 
-## Getting Started with Next.js
+## **Project Overview**
 
-First, run the development server:
+This project is a full-featured e-commerce web application designed to provide secure user authentication and personalized shopping experiences. Developed with a focus on performance and scalability, the platform allows users to manage their shopping cart in real-time, even across sessions, and provides an admin interface for streamlined product management.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## **Key Features**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **User Authentication:** Secure user login and registration using NextAuth with persistent sessions across logins.
+- **Dynamic Cart Updates:** Real-time updates to the shopping cart, ensuring a seamless user experience.
+- **Product Management:** An intuitive admin interface built with Next.js and Prisma for easy product additions and management.
+- **Persistent Data:** Shopping cart data remains intact across sessions, ensuring that users find their items in the cart even after logging out and logging back in.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## **Technology Stack**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Next.js:** A React framework for building server-rendered web applications.
+- **MongoDB:** A NoSQL database used for storing user data, products, and cart information.
+- **Prisma:** An ORM for managing database interactions, ensuring efficient and type-safe access to data.
+- **NextAuth:** A library for handling user authentication in Next.js applications.
 
-## Learn More
+## **Deployment**
 
-To learn more about Next.js, take a look at the following resources:
+This application is deployed on Vercel, offering seamless deployment with Next.js optimizations.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**[Live Demo](#)**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## **Screenshots**
 
-## Deploy on Vercel
+![Home Page](images/home-page.png)
+*Home Page of the E-Commerce Platform*
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Admin Interface](images/admin-interface.png)
+*Admin Interface for Product Management*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## **Demo Video**
+
+Check out the application in action with our [Demo Video](https://www.loom.com/share/demo-video-link).
+
+## **Use Cases**
+
+1. **Personalized Shopping Experience:** Users enjoy a customized experience with persistent cart data and secure authentication.
+2. **Efficient Product Management:** Admins can easily add and manage products, optimizing operations.
+3. **Real-Time Updates:** The dynamic cart updates in real-time, ensuring a smooth shopping experience.
