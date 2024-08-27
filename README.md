@@ -22,7 +22,7 @@ This project is a full-featured e-commerce web application designed to provide s
 
 This application is deployed on Vercel, offering seamless deployment with Next.js optimizations.
 
-**[Live Demo](#)**
+**[Live Demo](https://next-js-ecommerce-r59rrcrit-asthapanda02-gmailcoms-projects.vercel.app/)**
 
 ## **Screenshots**
 
