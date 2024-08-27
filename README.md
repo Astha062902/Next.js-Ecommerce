@@ -25,23 +25,23 @@ This application is deployed on Vercel, offering seamless deployment with Next.j
 **[Live Demo](https://next-js-ecommerce-r59rrcrit-asthapanda02-gmailcoms-projects.vercel.app/)**
 
 ## **Screenshots**
-### **Home Page**
+## **Home Page**
 The homepage displays all products and a featured product, offering an overview of available items.
 ![Home Page](images/home.png)
 
-### **Products Page**
+## **Products Page**
 This page shows detailed information about a single product along with an "added to cart" message when the item is added to the shopping cart.
 ![Product Page](images/add-to-cart.png)
 
-### **Search Results Page**
+## **Search Results Page**
 The search results page demonstrates the functionality of the search bar. For instance, searching for "camera" will show all products related to the search term.
 ![Search Results Page](images/search-function.png)
 
-### **Cart Page**
+## **Cart Page**
 The cart page displays all products added to the cart along with the total price, allowing users to review and manage their selected items.
 ![Cart Page](images/cart.png)
 
-### **Add Products Page**
+## **Add Products Page**
 This admin interface allows adding new products to the website and database, streamlining product management.
 ![Add Products Page](images/add-product.png)
 
