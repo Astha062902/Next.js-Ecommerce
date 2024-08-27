@@ -26,8 +26,13 @@ This application is deployed on Vercel, offering seamless deployment with Next.j
 
 ## **Screenshots**
 
-![Home Page](images/home-page.png)
+![Home Page](images/home.png)
 *Home Page of the E-Commerce Platform*
+
+![Product Page](images/add-to-cart.png)
+![Search Results Page](images/search-function.png)
+![Cart Page](images/cart.png)
+![Add Products Page](images/add-product.png)
 
 ![Admin Interface](images/admin-interface.png)
 *Admin Interface for Product Management*
