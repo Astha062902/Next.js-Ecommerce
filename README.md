@@ -49,7 +49,7 @@ This admin interface allows adding new products to the website and database, str
 
 ## **Demo Video**
 
-Check out the application in action with our [Demo Video](https://www.loom.com/share/demo-video-link).
+Check out the application in action with our [Demo Video](https://drive.google.com/file/d/1veJWw6VjBY9AguUATmOwFLcQ2nWWKuvh/view?usp=sharing).
 
 ## **Use Cases**
 
